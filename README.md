@@ -1,6 +1,8 @@
 # Building a Data Mining System, From Data Cleaning to Model Evaluation
+
 I have used the Dataset from Kaggle, Heart Disease Cleveland UCI.
 Dataset link: https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci
+
 The class label heart disease refers to a patient's presence of heart disease. There are 298 rows and 14 columns in the dataset. each row representing the heart disease data of one patient.
 Each row in the dataset represents the persons data, such as age, sex, chest pain type, Resting Blood Pressure, Cholesterol, fasting Blood Sugar, resting electrocardiographic results, maximum heart rate achieved, exercise induced angina, ST depression induced by exercise relative to rest, the slope of the peak exercise ST segment, number of major vessels colored by fluoroscopy and finally the person condition.
 Attributes:
